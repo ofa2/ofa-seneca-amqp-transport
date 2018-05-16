@@ -1,6 +1,6 @@
 {
   "name": "@ofa2/ofa2-seneca-amqp-transport",
-  "version": "0.2.3-dev",
+  "version": "0.2.3",
   "description": "AMQP transport plugin for seneca.js",
   "main": "index.js",
   "files": [
@@ -29,8 +29,7 @@
     "rabbitmq"
   ],
   "author": "GongXian <gongxiancao@hotmail.com>",
-  "contributors": [
-  ],
+  "contributors": [],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gongxiancao/ofa-seneca-amqp-transport/issues"
