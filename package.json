@@ -1,5 +1,5 @@
 {
-  "name": "ofa2-seneca-amqp-transport",
+  "name": "@ofa2/ofa2-seneca-amqp-transport",
   "version": "0.2.3-dev",
   "description": "AMQP transport plugin for seneca.js",
   "main": "index.js",
@@ -13,6 +13,9 @@
   "scripts": {
     "test": "gulp test",
     "validate": "gulp validate"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
